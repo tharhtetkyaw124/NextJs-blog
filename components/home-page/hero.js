@@ -16,7 +16,7 @@ function Hero() {
       <h1>Hi, I'm THK</h1>
       <p>
         I blog about web development - especially frontend frameworks like
-          React.
+          React and Typescript ::::::.
       </p>
     </section>
   );
