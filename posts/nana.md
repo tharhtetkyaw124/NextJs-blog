@@ -26,6 +26,10 @@ A database structures its data into tables whereas a blockchain, like its name i
 
 **Attributes of Cryptocurrency**
 
-![AOC](https://www.investopedia.com/thmb/DlN4vb41wbAjZ98SBSmms-SAHCQ=/1688x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-02-d8258ab814a34756bf51f1f95c78dc63.jpg "AOC")
+![Transaction Process](https://www.investopedia.com/thmb/OspmuCTSRyVEcNwSLOwYGaQHm64=/1688x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg "Transaction Process")
+
+**Attributes of Cryptocurrency**
+
+![Transaction Process](https://www.investopedia.com/thmb/OspmuCTSRyVEcNwSLOwYGaQHm64=/1688x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg "Transaction Process")
 
 more about[More](https://www.investopedia.com/terms/b/blockchain.asp "More")
