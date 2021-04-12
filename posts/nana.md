@@ -1,8 +1,8 @@
 ---
-title: 'Getting Started with NextJS'
+title: 'Learn About BlockChain'
 date: '2021-04-12'
-
-excerpt: Sbout BlockCahin
+image: blockchain.jpg
+excerpt: About BlockCahin
 isFeatured: true
 ---
 # What is Blockchain?
