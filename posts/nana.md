@@ -25,6 +25,6 @@ A database structures its data into tables whereas a blockchain, like its name i
 ![Transaction Process](https://www.investopedia.com/thmb/OspmuCTSRyVEcNwSLOwYGaQHm64=/1688x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg "Transaction Process")
 
 ![Create routes via your file + folder structure](nextjs-file-based-routing.png)
-![Create routes via your file + folder structure](nextjs-file-based-routing.png)
+![haha](haha.jpg)
 
 more about[More](https://www.investopedia.com/terms/b/blockchain.asp "More")
