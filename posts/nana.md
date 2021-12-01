@@ -1,5 +1,5 @@
 ---
-title: 'Learn About BlockChain with thk'
+title: 'Learn About BlockChain with kttz'
 date: '2021-04-12'
 image: blockchain.jpg
 excerpt: About BlockCahin
@@ -20,8 +20,8 @@ Large databases achieve this by housing data on servers that are made of powerfu
 One key difference between a typical database and a blockchain is the way the data is structured. A blockchain collects information together in groups, also known as blocks, that hold sets of information. Blocks have certain storage capacities and, when filled, are chained onto the previously filled block, forming a chain of data known as the “blockchain.” All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.
 
 A database structures its data into tables whereas a blockchain, like its name implies, structures its data into chunks (blocks) that are chained together. This makes it so that all blockchains are databases but not all databases are blockchains. This system also inherently makes an irreversible timeline of data when implemented in a decentralized nature. When a block is filled it is set in stone and becomes a part of this timeline. Each block in the chain is given an exact timestamp when it is added to the chain.
-![thk](/images/posts/nana/thk.jpg)
 
+![thk](thk.jpg)
 
 **Transaction Process**
 
